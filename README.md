@@ -1,16 +1,84 @@
-### Hi there 👋
+# Vadim Isakanov
+Infrastructure engineer.
 
-<!--
-**vadimisakanov/vadimisakanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Keywords: Automation, Infrastructure, DevOps, Kubernetes, Gitlab, CI/CD, Ansible, highload web projects.
 
-Here are some ideas to get you started:
+Open for projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+email: vadim.isakanov@gmail.com
+
+skype: vadimisakanov
+
+fb.com/vadimisakanov
+
+github.com/vadimisakanov
+
+t.me/vadimisakanov
+
+
+## Currilucum vitae
+
+More than 10 yrs professional experience in IT.
+
+### Objective / Looking for
+
+Looking for a full-time remote job in infrastructure automation, creating efficient infrastructure, setting up DevOps processes and helping deliver software better and faster. Open for short term projects untill enrolled in a full time job.
+
+Not willing to relocate for now, sorry. Able to travel several times a year, including long-term travels up to few months.
+
+Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
+
+### Work experience:
+
+#### Cogia Intelligence - infrastructure engineer
+
+2019 - 2020
+
+Creating and maintaining IT infrastructure for a data analytics startup.
+Implementing DevOps approach, infrastructure setup with Infrastructure as a Code system, integrating CI/CD, Kubernetes, modern monitoring, log systems, etc.
+
+Keywords & tech stack: Java/Tomcat, Kubernetes, DevOps, Ansible, Terraform, Zabbix, Prometheus, ELK stack, Gitlab CI, Apache Cassandra, heavy MySQL installations
+
+#### Southbridge.io - ops engineer, infrastructure automation
+
+2017-2019
+
+Creating and maintaining IT infrastructure of some of the biggest web projects in Russia & CIS.
+
+Keywords: highload, devops integration, amazon aws, gitlab ci, kubernetes, ansible automation, bash scripting automation, monitoring (zabbix, prometheus).
+
+Tech stack: kubernetes, gitlab ci, linux, LAMP, nginx/apache, php/python/ruby deployments, databases (mysql, postgresql, mongodb), clusterization tools, openvz & kvm virtualization & lots of other stuff.
+
+#### Hosterbox.ru - CTO
+
+2010-2017
+
+A web-hosting provider with managed services.
+
+Tech stack: linux, LAMP, kvm & openvz virtualization, ansible automation
+
+Also was a business owner, so it's 7 years business experience. Since then I have experience hiring people, making teams, experience in sales, management, finance, market researches, being financially effective.
+
+#### RT.com (Rostelecom) - network engineer
+
+2007-2008
+
+ISP network engineer. Was responsible for ADSL infrastructure.
+
+### Education:
+
+South Ural State University - susu.ru, 2004-2009, bachelor degree in Computer Science and Radio Communications
+
+EDX.org Introduction to Kubernetes course
+
+LinuxFoundations Kubernetes Administration course
+
+Slurm.io offline Kubernetes cources
+
+### Bio
+
+Born in 1987, live in Russia, Chelyabinsk, GMT+5. Able to travel several times a year.
+
+Native Russian language, fluent English, basic German and Spanish.
+
+A host and speaker for UWDC.ru conference, sysadminka.timepad.ru meetups, Kubernetes meetups in Russia
