@@ -3,7 +3,7 @@ Infrastructure engineer.
 
 Keywords: Automation, Infrastructure, DevOps, Kubernetes, Gitlab, CI/CD, Ansible, highload web projects.
 
-Open for projects.
+**No free time for a new job or projects now**
 
 email: vadim.isakanov@gmail.com
 
@@ -19,12 +19,6 @@ t.me/vadimisakanov
 ## Currilucum vitae
 
 More than 10 yrs professional experience in IT.
-
-### Objective / Looking for
-
-Looking for a full-time remote job in infrastructure automation, creating efficient infrastructure, setting up DevOps processes and helping deliver software better and faster. Open for short term projects untill enrolled in a full time job.
-
-Not willing to relocate for now, sorry. Able to travel several times a year, including long-term travels up to few months.
 
 Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
 
