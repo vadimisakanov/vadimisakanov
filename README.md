@@ -24,6 +24,15 @@ Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
 
 ### Work experience:
 
+#### EPAM systems - systems engineer, devops/infrastructure/automation
+
+2020 - present
+
+Automating IT infrastructure, deployment processes, devops approach for one of the projects in EPAM - one the world's biggest outsource companies.
+Implementing DevOps approach, infrastructure setup with Infrastructure as a Code system, integrating CI/CD, Kubernetes, modern monitoring, log systems, etc, adopting apps for Kubernetes.
+
+Keywords & tech stack: AWS, Java/Tomcat, Kubernetes, DevOps, Ansible, Terraform, Prometheus, ELK stack, Gitlab CI, Jenkins CI
+
 #### Cogia Intelligence - infrastructure engineer
 
 2019 - 2020
