@@ -28,8 +28,10 @@ Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
 
 2020 - present
 
-Automating IT infrastructure, deployment processes, devops approach for one of the projects in EPAM - one the world's biggest outsource companies.
-Implementing DevOps approach, infrastructure setup with Infrastructure as a Code system, integrating CI/CD, Kubernetes, modern monitoring, log systems, etc, adopting apps for Kubernetes.
+Automating IT infrastructure, deployment processes, devops processes for one of the projects in EPAM - one the world's biggest outsource companies.
+Implementing DevOps approach, infrastructure setup with Infrastructure as a Code system, integrating CI/CD, Kubernetes, modern monitoring, log systems, etc, adopting apps for Kubernetes. Moving the project infrastructure to Kubernetes platform & cloud-native system.
+
+Keywords & tech stack: Java/Tomcat, Kubernetes, DevOps, Ansible, Zabbix, Prometheus, ELK stack, Gitlab CI, heavy MySQL and Apache Cassandra installations
 
 Keywords & tech stack: AWS, Java/Tomcat, Kubernetes, DevOps, Ansible, Terraform, Prometheus, ELK stack, Gitlab CI, Jenkins CI
 
