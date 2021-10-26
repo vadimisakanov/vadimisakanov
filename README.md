@@ -13,9 +13,6 @@ fb.com/vadimisakanov
 
 github.com/vadimisakanov
 
-t.me/vadimisakanov
-
-
 ## Currilucum vitae
 
 More than 10 yrs professional experience in IT.
