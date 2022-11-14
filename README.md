@@ -3,7 +3,7 @@ Infrastructure engineer.
 
 Keywords: Automation, Infrastructure, DevOps, Kubernetes, Gitlab, CI/CD, Ansible, AWS.
 
-**No free time for a new job or projects now, sorry**
+**Looking for a job now**
 
 email: vadim.isakanov@gmail.com
 
@@ -20,6 +20,12 @@ More than 10 yrs professional experience in IT.
 Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
 
 ### Work experience:
+
+#### ITPO Group - DevOps lead
+
+May 2022 - Sep 2022
+
+Keywords & tech stack: AWS, Java, npm, Kubernetes, DevOps, Ansible, Terraform, ELK stack, Gitlab CI, micro-service architecture
 
 #### EPAM systems - systems engineer, devops/infrastructure/automation
 
