@@ -7,9 +7,7 @@ Keywords: Automation, Infrastructure, DevOps, Kubernetes, Gitlab, CI/CD, Ansible
 
 email: vadim.isakanov@gmail.com
 
-skype: vadimisakanov
-
-fb.com/vadimisakanov
+t.me/vadimisakanov
 
 github.com/vadimisakanov
 
