@@ -19,15 +19,35 @@ Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
 
 ### Work experience:
 
+#### VK.com - SRE
+
+December 2022 - present
+
+Developing infrastructure for a highload B2B project for TOP2 Russian IT company.
+Developing for project monitoring, IaC implementation, automation tools w Golang/Python/Bash.
+Promoting the engineer culture and collaboration processes in the team.
+Made interaction with development & testing teams more effective.
+Implemented DDoS protection system.
+Described project business metrics in monitoring.
+
+Key words and tech stack: Ansible, Prometheus, Grafana, Victoriametrics, Tarantool, Clickhouse, Kaspersky KLMS & KWTS, custom S3 storage, Golang, micro-service architecture, monitoring, SRE
+
 #### ITPO Group - DevOps lead
 
-May 2022 - Sep 2022
+June 2022 - November 2022
+
+Created processes and system for infrastructure & DevOps implementation works in a team of 30 engineers.
+Created a DevOps/infrastructure unit of 3 engineers.
+Described test-stage-prod environments with Terraform using Terraform modules, created idempotent IaC, cut costs with heavy usage of AWS spot instances.
+Created a stable working CI/CD for a project with 30 microservices.
+Covered all the envs with basic monitoring, log collection systems.
+Implemented tools to let dev and test teams to work effectively with our Kubernetes clusters.
 
 Keywords & tech stack: AWS, Java, npm, Kubernetes, DevOps, Ansible, Terraform, ELK stack, Gitlab CI, micro-service architecture
 
 #### EPAM systems - systems engineer, devops/infrastructure/automation
 
-2020 - present
+2020 - June 2022
 
 Automating IT infrastructure, deployment processes, devops processes for one of the projects in EPAM - one the world's biggest outsource companies.
 Implementing DevOps approach, infrastructure setup with Infrastructure as a Code system, integrating CI/CD, Kubernetes, modern monitoring, log systems, etc, adopting apps for Kubernetes. Moving the project infrastructure to Kubernetes platform & cloud-native system.
