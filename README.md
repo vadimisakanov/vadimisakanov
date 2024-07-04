@@ -3,8 +3,6 @@ Infrastructure engineer.
 
 Keywords: Automation, Infrastructure, DevOps, Kubernetes, Gitlab, CI/CD, Ansible, AWS.
 
-**Looking for a job now**
-
 email: vadim.isakanov@gmail.com
 
 t.me/vadimisakanov
@@ -19,9 +17,17 @@ Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
 
 ### Work experience:
 
+#### Bootsman.tech - DevOps
+
+December 2023 - present
+
+Developing bootsman.tech - a Kubernetes multi-cluster orchestration platform
+
+Key words and tech stack: Kubernetes, Ansible, Golang, Gitlab CI
+
 #### VK.com - SRE
 
-December 2022 - present
+December 2022 - November 2023
 
 Developing infrastructure for a highload B2B project for TOP2 Russian IT company.
 Developing for project monitoring, IaC implementation, automation tools w Golang/Python/Bash.
