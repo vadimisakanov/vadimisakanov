@@ -1,7 +1,7 @@
 # Vadim Isakanov
 Infrastructure engineer.
 
-Keywords: Automation, Infrastructure, DevOps, Kubernetes, Gitlab, CI/CD, Ansible, AWS.
+Keywords: DevOps, Infrastructure, Automation, Kubernetes, Gitlab, CI/CD, Terraform, Ansible, AWS, Yandex Cloud, Golang, Python
 
 email: vadim.isakanov@gmail.com
 
@@ -31,7 +31,7 @@ December 2022 - November 2023
 
 - Developing infrastructure for a highload B2B project for TOP2 Russian IT company.
 - Developing for project monitoring, IaC implementation, automation tools w Golang/Python/Bash.
-- Promoting the engineer culture and collaboration processes in the team.
+- Promoting the engineering culture and collaboration processes in the team.
 - Made interaction between infra teams & development + testing teams more effective.
 - Implemented antiDDoS protection system.
 - Described project business metrics in monitoring.
