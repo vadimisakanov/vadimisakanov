@@ -57,7 +57,7 @@ Keywords & tech stack: AWS, Java, npm, Kubernetes, DevOps, Ansible, Terraform, E
 
 - Automating IT infrastructure, deployment processes, devops processes for one of the projects in EPAM - one the world's biggest outsource companies.
 - Implemented DevOps approach, infrastructure setup with Infrastructure as a Code system, integrating CI/CD, Kubernetes, modern monitoring, log systems, etc, adopting apps for Kubernetes.
-- Adopted project apps and infrastructure for Kubernetes & cloud-native system in a team of 3 infra engineers; I was responsible mainly for building infra architecture, CI/CD, Kubernetes adoptation, building DevOps culture.
+- Adopted project apps and infrastructure for Kubernetes & cloud-native system in a team of 3 infra engineers; I was responsible mainly for building infra architecture, CI/CD, Kubernetes adoption, building DevOps culture.
 
 Keywords & tech stack: AWS, Java/Tomcat, Kubernetes, DevOps, Ansible, Terraform, Prometheus+Grafana, ELK stack, Gitlab CI, Jenkins CI
 
