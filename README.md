@@ -23,8 +23,6 @@ December 2023 - present
 
 Developing bootsman.tech - a Kubernetes multi-cluster orchestration platform
 
-Key words and tech stack: Kubernetes, Ansible, Golang, Gitlab CI, loki, VictoriaLogs, Vector, Helm, Rancher, Prometheus, Grafana
-
 - speeding up Golang builds up to 1-2 seconds per gitlab job using specialized gitlab runners with effective job scheme and cache scheme; a lot like "Facebook frontend builds speeding up", but for golang builds
 - defining custom gitlab runners deployment with Ansible
 - custom loki-operator helm chart development with collecting logs from many Kubernetes subclusters
@@ -33,6 +31,8 @@ Key words and tech stack: Kubernetes, Ansible, Golang, Gitlab CI, loki, Victoria
 - custom Vector Helm chart + addon development
 - domain owner for Brest (based on Opennebula) infrastructure provider, Brest/Opennebula lead in the team; I test our infra products with Brest/Opennebula, work out the best work scheme, create and debug Gitlab CI for our product tests with Brest/Opennebula installation
 - ceph cluster deployment for Brest/Opennebula installation
+
+Key words and tech stack: Kubernetes, Ansible, Golang, Gitlab CI, loki, VictoriaLogs, Vector, Helm, Rancher, Prometheus, Grafana
 
 #### VK.com - SRE
 
