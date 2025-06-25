@@ -13,8 +13,6 @@ github.com/vadimisakanov
 
 More than 10 yrs professional experience in IT.
 
-Best work hours - 00.00 - 16.00 UTC, other hours negotiable.
-
 ### Work experience:
 
 #### Bootsman.tech - DevOps
