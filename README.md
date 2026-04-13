@@ -15,19 +15,29 @@ More than 10 yrs professional experience in IT.
 
 ### Work experience:
 
-#### Bootsman.tech - DevOps
+#### Alfabank.ru - DevOps
 
-December 2023 - present
+August 2025 - present
+
+- Cloud infrastructure management (Yandex Cloud)
+- Multiple Kubernetes installations
+- Tech lead for project log storage system (ELK/Opensearch/fluentd/Vector), Keycloak setups
+- Helm chart development
+- Reconfiguration for a heavy Gitlab CI system
+
+Keywords and tech stack: Kubernetes, Ansible, Terraform, Kafka, Redis, Clickhouse, PostgreSQL, Java & NodeJS builds, Python & Golang development, ELK/Opensearch/fluentd/Vector, VictoriaMetrics, Helm, Grafana, Harbor, Nexus, Keycloak
+
+December 2023 - August 2025
 
 Developing bootsman.tech - a Kubernetes multi-cluster orchestration platform
 
 - speeding up Golang builds up to 1-2 seconds per gitlab job using specialized gitlab runners with effective job scheme and cache scheme; a lot like "Facebook frontend builds speeding up", but for golang builds
-- defining custom gitlab runners deployment with Ansible
+- configuring infrastructure configuration with Ansible
 - custom loki-operator helm chart development with collecting logs from many Kubernetes subclusters
 - security scheme development for Kubernetes clusters, security tools research, helm chart development and product integration
-- custom VictoriaLogs Helm chart + addon development
-- custom Vector Helm chart + addon development
-- domain owner for Brest (based on Opennebula) infrastructure provider, Brest/Opennebula lead in the team; I test our infra products with Brest/Opennebula, work out the best work scheme, create and debug Gitlab CI for our product tests with Brest/Opennebula installation
+- custom VictoriaLogs Helm chart + add-on development
+- custom Vector Helm chart + add-on development
+- domain owner for Brest (based on Opennebula) infrastructure provider, Brest/Opennebula lead in the team; I tested our infra products with Brest/Opennebula, worked out the best work scheme and implemented with the project developers, created and debugged Gitlab CI for product tests with Brest/Opennebula installation
 - ceph cluster deployment for Brest/Opennebula installation
 
 Key words and tech stack: Kubernetes, Ansible, Golang, Gitlab CI, loki, VictoriaLogs, Vector, Helm, Rancher, Prometheus, Grafana
@@ -36,7 +46,7 @@ Key words and tech stack: Kubernetes, Ansible, Golang, Gitlab CI, loki, Victoria
 
 December 2022 - November 2023
 
-- Developing infrastructure for a highload B2B project for TOP2 Russian IT company
+- Developing infrastructure for a highload B2B project (few hundred thousand users, hundreds of thousands rps) for TOP2 Russian IT company
 - Developing for project monitoring, IaC implementation, automation tools w Golang/Python/Bash
 - Promoting the engineering culture and collaboration processes in the team
 - Made interaction between infra teams & development + testing teams more effective
