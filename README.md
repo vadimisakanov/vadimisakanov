@@ -27,6 +27,8 @@ August 2025 - present
 
 Keywords and tech stack: Kubernetes, Ansible, Terraform, Kafka, Redis, Clickhouse, PostgreSQL, Java & NodeJS builds, Python & Golang development, ELK/Opensearch/fluentd/Vector, VictoriaMetrics, Helm, Grafana, Harbor, Nexus, Keycloak
 
+#### Bootsman.tech (Astra Group) - DevOps
+
 December 2023 - August 2025
 
 Developing bootsman.tech - a Kubernetes multi-cluster orchestration platform
